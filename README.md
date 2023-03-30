@@ -2,7 +2,7 @@
 Este é um pequeno projeto de detecção de rosto utilizando a linguagem de programação Java e a biblioteca OpenCV.
 
 ## Requisitos ##
-Java JDK 8 ou superior
+Java JDK 8 ou superior<br>
 OpenCV 3.0 ou superior
 
 ## Como utilizar ##
